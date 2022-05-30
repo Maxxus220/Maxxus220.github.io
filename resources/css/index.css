@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(29, 29, 29);
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+header h3{
+    display: inline-block;
+    width: 400px;
+    color: white;
+    position: relative;
+    left: 20px;
+    opacity: 0.8;
+}
+
+header ul{
+    float: right;
+    position: relative;
+    right: 80px;
+}
+
+header li{
+    display: inline-block;
+    color: white;
+    padding: 0 10px;
+}
